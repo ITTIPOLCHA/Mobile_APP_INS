@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,21 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoginLayout.razor",
               "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\LoginLayout.razor",
               "RelativeDocumentMoniker": "Shared\\LoginLayout.razor",
               "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\LoginLayout.razor",
               "RelativeToolTip": "Shared\\LoginLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T04:35:41.248Z",
               "EditorCaption": ""
@@ -63,8 +59,7 @@
               "RelativeToolTip": "Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:33:46.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:33:46.236Z"
             },
             {
               "$type": "Document",
@@ -74,14 +69,14 @@
               "RelativeDocumentMoniker": "Pages\\Login.razor",
               "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Login.razor",
               "RelativeToolTip": "Pages\\Login.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T04:33:28.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
@@ -89,8 +84,7 @@
               "RelativeToolTip": "_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:29:00.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:29:00.825Z"
             },
             {
               "$type": "Document",
@@ -102,8 +96,7 @@
               "RelativeToolTip": "Shared\\OrderCard.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:15:41.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:15:41.531Z"
             }
           ]
         },
@@ -119,7 +112,7 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
               "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\css\\app.css",
               "RelativeToolTip": "wwwroot\\css\\app.css",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-01-13T04:05:52.549Z",
               "EditorCaption": ""
