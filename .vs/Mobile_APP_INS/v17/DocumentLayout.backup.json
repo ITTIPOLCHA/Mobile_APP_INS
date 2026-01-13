@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\wwwroot\\notification-helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:wwwroot\\notification-helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\shared\\ordercard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:shared\\ordercard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +42,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T03:40:35.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T03:27:41.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "service-worker.js",
-              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\service-worker.js",
-              "RelativeDocumentMoniker": "wwwroot\\service-worker.js",
-              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\service-worker.js",
-              "RelativeToolTip": "wwwroot\\service-worker.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-13T02:38:42.959Z",
+              "Title": "LoginLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\LoginLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\LoginLayout.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\LoginLayout.razor",
+              "RelativeToolTip": "Shared\\LoginLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:35:41.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "notification-helper.js",
-              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\notification-helper.js",
-              "RelativeDocumentMoniker": "wwwroot\\notification-helper.js",
-              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\notification-helper.js",
-              "RelativeToolTip": "wwwroot\\notification-helper.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-13T02:37:40.525Z",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:33:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Login.razor",
+              "RelativeToolTip": "Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:33:28.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCwAAAAAAAAAAAAAAA==",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T02:37:07.566Z",
+              "WhenOpened": "2026-01-13T04:29:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCard.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\OrderCard.razor",
+              "RelativeDocumentMoniker": "Shared\\OrderCard.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Shared\\OrderCard.razor",
+              "RelativeToolTip": "Shared\\OrderCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:15:41.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-13T04:05:52.549Z",
               "EditorCaption": ""
             }
           ]

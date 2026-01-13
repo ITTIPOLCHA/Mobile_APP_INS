@@ -1,0 +1,57 @@
+﻿<div class="order-card @GetStatusClass()">
+    <div class="order-header">
+        <div>
+            <div class="order-id">#@OrderNo</div>
+            <div class="order-date">@OrderDate.ToString("dd MMM HH:mm")</div>
+        </div>
+        <div class="price-tag">
+            ฿@Price.ToString("N0")
+        </div>
+    </div>
+
+    <div class="customer-name">
+        <i class="fas fa-user-circle me-1"></i> @CustomerName
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center mt-2">
+        <div class="insurance-type">
+            <i class="fas fa-car-crash me-1"></i> @InsuranceType
+        </div>
+        <span class="status-badge @GetStatusClass()">
+            @StatusText
+        </span>
+    </div>
+</div>
+
+@code {
+    // รับค่าเข้ามาแสดงผล (Parameters)
+    [Parameter] public string OrderNo { get; set; }
+    [Parameter] public string CustomerName { get; set; }
+    [Parameter] public string InsuranceType { get; set; } // เช่น ประกันชั้น 1, พรบ.
+    [Parameter] public decimal Price { get; set; }
+    [Parameter] public DateTime OrderDate { get; set; }
+    [Parameter] public string Status { get; set; } // new, pending, success
+
+    // ฟังก์ชันเลือก Class สีตามสถานะ
+    private string GetStatusClass()
+    {
+        return Status.ToLower() switch
+        {
+            "new" => "status-new",     // ตรงกับ CSS .status-new
+            "pending" => "status-pending",
+            "success" => "status-success",
+            "cancel" => "status-cancel",
+            _ => ""
+        };
+    }
+
+    // แปลง Text ภาษาอังกฤษเป็นไทย (หรือจะรับเป็นไทยมาเลยก็ได้)
+    private string StatusText => Status.ToLower() switch
+    {
+        "new" => "คำสั่งซื้อใหม่",
+        "pending" => "รอชำระเงิน",
+        "success" => "คุ้มครองแล้ว",
+        "cancel" => "ยกเลิก",
+        _ => Status
+    };
+}

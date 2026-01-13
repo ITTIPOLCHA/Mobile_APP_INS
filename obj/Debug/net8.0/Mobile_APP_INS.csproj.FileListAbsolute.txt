@@ -3043,8 +3043,8 @@ C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\webcil\M
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
-C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\bundle\Mobile_APP_INS.styles.css
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\scopedcss\projectbundle\Mobile_APP_INS.bundle.scp.css
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\blazor.build.boot-extension.json
@@ -3273,6 +3273,6 @@ C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\Mobile_A
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\refint\Mobile_APP_INS.dll
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\Mobile_APP_INS.pdb
 C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\ref\Mobile_APP_INS.dll
-C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\fc7ned7mi2-ebr1edg91h.gz
-C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\tx83u1aaan-cifjor5axk.gz
-C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\mal795q2qi-rtdosec6e4.gz
+C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\fc7ned7mi2-wemdy7zcw1.gz
+C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\tx83u1aaan-xxexv1hs6h.gz
+C:\Users\ichar\OneDrive\Desktop\Project\Mobile_APP_INS\obj\Debug\net8.0\compressed\mal795q2qi-t6wljfqfeu.gz
