@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\wwwroot\\notification-helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:wwwroot\\notification-helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|c:\\users\\ichar\\onedrive\\desktop\\project\\mobile_app_ins\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99732957-0F57-453F-84B9-448AFD51CC82}|Mobile_APP_INS.csproj|solutionrelative:wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T03:40:35.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T03:27:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "service-worker.js",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\service-worker.js",
+              "RelativeDocumentMoniker": "wwwroot\\service-worker.js",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\service-worker.js",
+              "RelativeToolTip": "wwwroot\\service-worker.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-13T02:38:42.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notification-helper.js",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\notification-helper.js",
+              "RelativeDocumentMoniker": "wwwroot\\notification-helper.js",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\wwwroot\\notification-helper.js",
+              "RelativeToolTip": "wwwroot\\notification-helper.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-13T02:37:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T02:37:07.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
