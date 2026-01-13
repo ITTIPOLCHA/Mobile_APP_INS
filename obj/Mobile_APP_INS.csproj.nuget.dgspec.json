@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj": {}
+    "c:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj": {
+    "c:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj",
+        "projectUniqueName": "c:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj",
         "projectName": "Mobile_APP_INS",
-        "projectPath": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj",
+        "projectPath": "c:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\Mobile_APP_INS.csproj",
         "packagesPath": "C:\\Users\\ichar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\obj\\",
+        "outputPath": "c:\\Users\\ichar\\OneDrive\\Desktop\\Project\\Mobile_APP_INS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

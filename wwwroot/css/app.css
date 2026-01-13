@@ -1,25 +1,25 @@
 /* =========================================
    1. Design Tokens & Base Variables
-   (ค่ากลางของระบบ - แก้ที่นี่เปลี่ยนทั้งเว็บ)
+   (๏ฟฝ๏ฟฝาก๏ฟฝาง๏ฟฝอง๏ฟฝะบ๏ฟฝ - ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝยน๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ)
    ========================================= */
 :root {
-    /* --- Main Palette (สีหลักของแอป) --- */
-    --primary-color: #1b6ec2; /* สีหลัก (น้ำเงิน) */
-    --primary-hover: #155595; /* สีตอนชี้ */
-    --secondary-color: #6c757d; /* สีรอง (เทา) */
-    --accent-color: #0dcaf0; /* สีตกแต่ง (ฟ้าสดใส) */
-    --text-color: #333333; /* สีตัวอักษร */
-    --bg-body: #f8f9fa; /* สีพื้นหลังเว็บ */
-    --bg-card: #ffffff; /* สีพื้นหลังการ์ด */
-    /* --- Insurance Status Colors (สีสถานะงานประกัน) --- */
-    --status-new: #0d6efd; /* น้ำเงิน: งานใหม่ */
-    --status-pending: #fd7e14; /* ส้ม: รอตรวจสอบ/รอจ่าย */
-    --status-success: #198754; /* เขียว: คุ้มครองแล้ว */
-    --status-cancel: #dc3545; /* แดง: ยกเลิก */
-    --status-expire: #6c757d; /* เทา: หมดอายุ */
+    /* --- Main Palette (๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝัก๏ฟฝอง๏ฟฝอป) --- */
+    --primary-color: #1b6ec2; /* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝัก (๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝิน) */
+    --primary-hover: #155595; /* ๏ฟฝีตอน๏ฟฝ๏ฟฝ๏ฟฝ */
+    --secondary-color: #6c757d; /* ๏ฟฝ๏ฟฝ๏ฟฝอง (๏ฟฝ๏ฟฝ) */
+    --accent-color: #0dcaf0; /* ๏ฟฝีต๏ฟฝ๏ฟฝ๏ฟฝ (๏ฟฝ๏ฟฝ๏ฟฝสด๏ฟฝ๏ฟฝ) */
+    --text-color: #333333; /* ๏ฟฝีต๏ฟฝ๏ฟฝ๏ฟฝัก๏ฟฝ๏ฟฝ */
+    --bg-body: #f8f9fa; /* ๏ฟฝีพ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝัง๏ฟฝ๏ฟฝ๏ฟฝ */
+    --bg-card: #ffffff; /* ๏ฟฝีพ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝัง๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ */
+    /* --- Insurance Status Colors (๏ฟฝ๏ฟฝสถานะงาน๏ฟฝ๏ฟฝะกัน) --- */
+    --status-new: #0d6efd; /* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝิน: ๏ฟฝาน๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ */
+    --status-pending: #fd7e14; /* ๏ฟฝ๏ฟฝ๏ฟฝ: ๏ฟฝอต๏ฟฝวจ๏ฟฝอบ/๏ฟฝอจ๏ฟฝ๏ฟฝ๏ฟฝ */
+    --status-success: #198754; /* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ: ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอง๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ */
+    --status-cancel: #dc3545; /* แดง: ยก๏ฟฝ๏ฟฝิก */
+    --status-expire: #6c757d; /* ๏ฟฝ๏ฟฝ: ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ */
     /* --- Shape & Fonts --- */
     --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    --border-radius: 12px; /* ความมนของมุม */
+    --border-radius: 12px; /* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอง๏ฟฝ๏ฟฝ๏ฟฝ */
     --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -48,9 +48,9 @@ a {
     }
 
 /* =========================================
-   3. Common Components (ปุ่ม, การ์ดทั่วไป)
+   3. Common Components (๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ, ๏ฟฝ๏ฟฝ๏ฟฝ์ดท๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ)
    ========================================= */
-/* ปุ่มธีมหลัก */
+/* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝัก */
 .btn-theme {
     background-color: var(--primary-color);
     color: white;
@@ -68,7 +68,7 @@ a {
         color: white;
     }
 
-/* ปุ่มธีมรอง */
+/* ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝอง */
 .btn-theme-secondary {
     background-color: white;
     color: var(--secondary-color);
@@ -83,7 +83,7 @@ a {
         color: #333;
     }
 
-/* การ์ดทั่วไป (Card Custom) */
+/* ๏ฟฝ๏ฟฝ๏ฟฝ์ดท๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ (Card Custom) */
 .card-custom {
     background-color: var(--bg-card);
     border-radius: var(--border-radius);
@@ -94,7 +94,7 @@ a {
 }
 
 /* =========================================
-   4. Order Card Component (การ์ดรายการคำสั่งซื้อ)
+   4. Order Card Component (๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝ๏ฟฝยก๏ฟฝรค๏ฟฝ๏ฟฝ๏ฟฝ่งซ๏ฟฝ๏ฟฝ๏ฟฝ)
    ========================================= */
 .order-card {
     background-color: white;
@@ -193,39 +193,7 @@ a {
     }
 
 /* =========================================
-   5. Login Page Styling
-   ========================================= */
-.login-container {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center; /* แก้ไข typo จาก justify_content เป็น justify-content แล้ว */
-    background: linear-gradient(135deg, var(--bg-body) 0%, #e2e6ea 100%);
-}
-
-.login-box {
-    width: 100%;
-    max-width: 400px;
-    padding: 1rem;
-}
-
-.login-header {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.login-icon {
-    font-size: 4rem;
-    color: var(--primary-color);
-    margin-bottom: 1rem;
-}
-
-.form-floating {
-    margin-bottom: 1rem;
-}
-
-/* =========================================
-   6. Blazor Default & Utilities
+   5. Blazor Default & Utilities
    ========================================= */
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid var(--status-success);

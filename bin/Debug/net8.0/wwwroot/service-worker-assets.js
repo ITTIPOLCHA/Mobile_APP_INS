@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "UqNnNmpg",
+  "version": "WtTrRruk",
   "assets": [
     {
-      "hash": "sha256-bEp/6xTfRzOC36wpa8Ft9wr9wxewISVYAT9IwzBvCr8=",
+      "hash": "sha256-XYfxwayI9rvwiZopr+rY1abFM016CkgfMqmiX8QTmWY=",
       "url": "Mobile_APP_INS.styles.css"
     },
     {
@@ -142,11 +142,11 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.Registry.wasm"
     },
     {
-      "hash": "sha256-hpCR6bAu/KavlSBku5ou/J7j/MDUUf+eSgIyfPVGjgU=",
+      "hash": "sha256-oVlkafLIJUmpRKSkTtqnjCOOWfI3XzM6kVX0hpz7/mM=",
       "url": "_framework/Mobile_APP_INS.pdb"
     },
     {
-      "hash": "sha256-uOPqMvN63HaQywcizz3XPujGSJ3RStPu78koOIU5OxE=",
+      "hash": "sha256-UptM6xri4HW2QzpdxC/QYOhnzEGbw7iaiyX5cLGIEF0=",
       "url": "_framework/Mobile_APP_INS.wasm"
     },
     {
@@ -810,7 +810,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-1AP4Mbgx50E6oKSOwUJibPVBPuY+SpyfZZMM7bXlRSE=",
+      "hash": "sha256-At+9sbZjvwedCfFZmuhm58S1wnUwyCwggJlecUQQdBI=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -866,7 +866,7 @@ self.assetsManifest = {
       "url": "_framework/netstandard.wasm"
     },
     {
-      "hash": "sha256-PaU6yf4+MaSjYPPU2/mXC/5I9kErc3xY9EhfOIS8kQo=",
+      "hash": "sha256-7RR17qkxa3UxOqJRz6HEWbA8jY9OA55H4R+RSg4suew=",
       "url": "css/app.css"
     },
     {

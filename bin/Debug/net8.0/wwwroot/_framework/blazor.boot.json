@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mobile_APP_INS",
   "resources": {
-    "hash": "sha256-yt8+EnY2vmj2xFnPB0l/oVIHdd2y0e7mDgPu8XhMn6Q=",
+    "hash": "sha256-VNSv3mONhA3/lFB7pqhfP5gsO0hEmCtAg6hFoiHVFmg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -219,10 +219,10 @@
       "mscorlib.wasm": "sha256-K9gNrsN9UmPqLs6J/FrkiKpmkVGnHjjqUsc7YGvesCY=",
       "netstandard.wasm": "sha256-4emjlXLM9qW3t2tlII20SDylBgG4ueI0wy9nh5FMd8g=",
       "System.Private.CoreLib.wasm": "sha256-2DN4v7I/tabltDEPdIO8sDBB0tY8zOm+0CvHbMssXW4=",
-      "Mobile_APP_INS.wasm": "sha256-uOPqMvN63HaQywcizz3XPujGSJ3RStPu78koOIU5OxE="
+      "Mobile_APP_INS.wasm": "sha256-UptM6xri4HW2QzpdxC/QYOhnzEGbw7iaiyX5cLGIEF0="
     },
     "pdb": {
-      "Mobile_APP_INS.pdb": "sha256-hpCR6bAu/KavlSBku5ou/J7j/MDUUf+eSgIyfPVGjgU="
+      "Mobile_APP_INS.pdb": "sha256-oVlkafLIJUmpRKSkTtqnjCOOWfI3XzM6kVX0hpz7/mM="
     }
   },
   "cacheBootResources": true,

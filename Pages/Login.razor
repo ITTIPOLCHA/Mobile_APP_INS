@@ -4,61 +4,33 @@
 
 @inject NavigationManager NavManager
 
-<div class="login-container">
-    <div class="login-box">
-
-        <div class="card-custom fade-in">
-
-            <div class="login-header">
-                <i class="fas fa-shield-alt login-icon"></i>
-                <h3 style="color: var(--primary-color); font-weight: bold;">Insurance Login</h3>
-                <p class="text-muted">เข้าสู่ระบบจัดการคำสั่งซื้อ</p>
-            </div>
-
-            <EditForm Model="@loginModel" OnValidSubmit="HandleLogin">
-                <DataAnnotationsValidator />
-
-                <div class="mb-3">
-                    <label class="form-label">รหัสพนักงาน / Email</label>
-                    <InputText @bind-Value="loginModel.Username" class="form-control form-control-lg" placeholder="ระบุ username" />
-                    <ValidationMessage For="@(() => loginModel.Username)" />
-                </div>
-
-                <div class="mb-3">
-                    <label class="form-label">รหัสผ่าน</label>
-                    <InputText type="password" @bind-Value="loginModel.Password" class="form-control form-control-lg" placeholder="ระบุ password" />
-                    <ValidationMessage For="@(() => loginModel.Password)" />
-                </div>
-
-                <div class="d-flex justify-content-between align-items-center mb-4">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="rememberMe">
-                        <label class="form-check-label" for="rememberMe">จดจำฉันไว้</label>
-                    </div>
-                    <a href="#" style="font-size: 0.9rem;">ลืมรหัสผ่าน?</a>
-                </div>
-
-                <button type="submit" class="btn-theme w-100 py-2" style="font-size: 1.1rem;">
-                    <i class="fas fa-sign-in-alt me-2"></i> เข้าสู่ระบบ
-                </button>
-
-            </EditForm>
+<div class="login-container"> <div class="login-box">   <h3>Login</h3>
+        
+        <div class="form-group">
+            <label>Username</label>
+            <input type="text" class="form-control" @bind="loginModel.username" placeholder="Enter username" />
         </div>
 
-        <div class="text-center mt-3 text-muted" style="font-size: 0.85rem;">
-            © 2026 Insurance App System v0.01
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" class="form-control" @bind="loginModel.password" placeholder="Enter password" />
         </div>
 
+        <button class="btn btn-primary" @onclick="HandleLogin">Login</button>
+        
+        @* @if (!string.IsNullOrEmpty(loginModel.))
+        {
+            <div class="alert alert-danger mt-3">@loginModel.ErrorMessage</div>
+        } *@
     </div>
 </div>
-
 @code {
     private LoginModel loginModel = new LoginModel();
 
     private void HandleLogin()
     {
         // TODO: ยิง API ตรวจสอบ Login จริงตรงนี้
-        Console.WriteLine($"Login ด้วย: {loginModel.Username}");
+        Console.WriteLine($"Login ด้วย: {loginModel.username}");
 
         // สมมติว่าผ่าน ให้เด้งไปหน้าแรก
         NavManager.NavigateTo("/");
@@ -68,9 +40,9 @@
     public class LoginModel
     {
         [Required(ErrorMessage = "กรุณาระบุ Username")]
-        public string Username { get; set; }
+        public string username { get; set; }
 
         [Required(ErrorMessage = "กรุณาระบุ Password")]
-        public string Password { get; set; }
+        public string password { get; set; }
     }
 }
